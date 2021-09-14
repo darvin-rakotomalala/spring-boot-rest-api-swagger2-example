@@ -38,10 +38,12 @@ Dans cet exemple nous allons utiliser les dependances Maven suivants :
 ---
 Pour tester la documentation API Swagger, ouvrez le navigateur et entrez l'URL suivante - `localhost:8080/swagger-ui.html` ou `http://localhost:8080/v2/api-docs` <br/>
 Soit utilisez un client REST comme postman pour importer la collection des WS en utilisant url : `http://localhost:8080/v2/api-docs`
+<br/><br/>
+![imgSwagger2](https://user-images.githubusercontent.com/75081354/133259063-89c8c858-1378-43b3-8dd2-fe2e79aaf10d.png)
 
 ### Installation
 ---
-- git clone https://github.com/teq-niq/sample.git
+* git clone https://github.com/darvin-rakotomalala/spring-boot-rest-api-swagger2-example.git
 
 ### Conclusion
 ---
