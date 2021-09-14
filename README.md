@@ -34,7 +34,7 @@ Dans cet exemple nous allons utiliser les dependances Maven suivants :
 - Pilote **PostgreSQL** - pilote JDBC pour la base de données PostgreSQL
 - **Springfox-swagger2** et les **springfox-swagger-ui** dépendances pour la documentation de l'API Swagger 2
 
-### Teste
+### Test
 ---
 Pour tester la documentation API Swagger, ouvrez le navigateur et entrez l'URL suivante - `localhost:8080/swagger-ui.html` ou `http://localhost:8080/v2/api-docs` <br/>
 Soit utilisez un client REST comme postman pour importer la collection des WS en utilisant url : `http://localhost:8080/v2/api-docs`
