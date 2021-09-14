@@ -5,7 +5,7 @@ du service à savoir quels sont tous les services disponibles, les signatures, l
 
 ### Qu'est-ce que Swagger
 ---
-Swagger est un langage de description d'interface pour décrire les API RESTful exprimées à l'aide de JSON et conformes à la spécification OpenAPI[https://en.wikipedia.org/wiki/OpenAPI_Specification] (OAS).<br/>
+Swagger est un langage de description d'interface pour décrire les API RESTful exprimées à l'aide de JSON et conformes à la [spécification OpenAPI](https://en.wikipedia.org/wiki/OpenAPI_Specification) (OAS).<br/>
 Swagger est utilisé avec un ensemble d'outils logiciels open source pour concevoir, créer, documenter et utiliser 
 des services Web RESTful. Swagger inclut une documentation automatisée, une génération de code et une génération de cas de test.
 
