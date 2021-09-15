@@ -32,7 +32,7 @@ Dans cet exemple nous allons utiliser les dependances Maven suivants :
 - **Spring Data JPA** - API de persistance Java et Hibernate
 - **Spring Boot DevTools** - dépendance pour les rechargements automatiques ou le rechargement en direct des applications
 - Pilote **PostgreSQL** - pilote JDBC pour la base de données PostgreSQL
-- **Springfox-swagger2** et les **springfox-swagger-ui** dépendances pour la documentation de l'API Swagger 2
+- **springfox-swagger2** et les **springfox-swagger-ui** dépendances pour la documentation de l'API Swagger 2
 
 ### Tester les APIs REST
 ---
